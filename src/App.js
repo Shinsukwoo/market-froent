@@ -14,6 +14,7 @@ function App() {
         <div>
             <div id="header">
                 <HaderPage />
+                <h1>16:58</h1>
             </div>
             <div id="body">
                 <Switch>
